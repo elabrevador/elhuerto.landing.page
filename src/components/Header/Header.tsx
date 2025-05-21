@@ -36,9 +36,9 @@ export const Header: React.FC = () => {
         </div>
         <div className={cx('nav-items', { folded })}>
           <ul>
-            <li className={cx('active')}><a href='#home'>Home</a></li>
-            <li><a href='#about'>About</a></li>
-            <li><a href='#contact'>Contact</a></li>
+            <li className={cx('active')}><a href='#home'>Inicio</a></li>
+            <li><a href='#about'>Info</a></li>
+            <li><a href='#contact'>Contacto</a></li>
           </ul>
         </div>
       </nav>

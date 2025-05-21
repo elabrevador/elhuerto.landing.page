@@ -10,7 +10,7 @@ export const Home = () => {
         <div className={cx('home')}>
       <div
         className={cx('bg')}
-        style={{ backgroundImage: `url(${bgImg})` }}
+        style={{ backgroundImage: `url(${bgImg})`}}
       ></div>
       <div className={cx('intro')}>        
         <h1>
