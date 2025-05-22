@@ -1,7 +1,7 @@
 import classNames from 'classnames/bind';
 import styles from './styles.module.scss';
 
-import bgImg from "../../resources/main.png";
+import bgImg from "../../resources/huerto.jpg";
 
 const cx = classNames.bind(styles);
 
