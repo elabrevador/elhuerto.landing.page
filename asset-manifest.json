@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elhuerto.landing.page/static/css/main.93037b5e.css",
-    "main.js": "/elhuerto.landing.page/static/js/main.d32ffab9.js",
+    "main.css": "/elhuerto.landing.page/static/css/main.bb8d9060.css",
+    "main.js": "/elhuerto.landing.page/static/js/main.e7006461.js",
     "static/js/453.603321df.chunk.js": "/elhuerto.landing.page/static/js/453.603321df.chunk.js",
     "static/media/huerto.jpg": "/elhuerto.landing.page/static/media/huerto.f5fb98d6ba0a4ef96603.jpg",
     "index.html": "/elhuerto.landing.page/index.html",
-    "main.93037b5e.css.map": "/elhuerto.landing.page/static/css/main.93037b5e.css.map",
-    "main.d32ffab9.js.map": "/elhuerto.landing.page/static/js/main.d32ffab9.js.map",
+    "main.bb8d9060.css.map": "/elhuerto.landing.page/static/css/main.bb8d9060.css.map",
+    "main.e7006461.js.map": "/elhuerto.landing.page/static/js/main.e7006461.js.map",
     "453.603321df.chunk.js.map": "/elhuerto.landing.page/static/js/453.603321df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93037b5e.css",
-    "static/js/main.d32ffab9.js"
+    "static/css/main.bb8d9060.css",
+    "static/js/main.e7006461.js"
   ]
 }
